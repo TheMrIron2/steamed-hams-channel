@@ -15,3 +15,5 @@ TheMrIron2 - Programming, video encoding, channel info/banners/sound
 Miotismon - Help with Wii channel forwarding
 
 Seymour Skinner - Ham steaming, aurora borealis localization, luncheon preparing
+
+## note need homebrew channel
